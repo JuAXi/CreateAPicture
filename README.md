@@ -4,7 +4,7 @@
 </br>
 选择界面
 </br>
-![image](images/Snipaste_2022-05-23_07-56-56.png)
+![image](images/2022-05-23_07-56-56.png)
 </br>
 </br>
 默认
